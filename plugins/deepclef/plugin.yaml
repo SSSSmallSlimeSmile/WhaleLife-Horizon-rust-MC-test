@@ -1,0 +1,5 @@
+id: deepclef
+name: Minecraft 陪玩
+description: 读取 DeepClef 状态、背包和方块，让它跟随、移动、挖掘、放置、转头、说话、找方块、捡东西、装备、开箱子、进食，创造模式下给物品
+version: 0.4.0
+apiVersion: "1"

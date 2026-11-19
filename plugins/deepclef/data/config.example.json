@@ -1,0 +1,8 @@
+{
+  "controlFile": "C:\\path\\to\\mineflayer-control.json",
+  "chatBridge": {
+    "enabled": true,
+    "ignore": [],
+    "session": ""
+  }
+}
