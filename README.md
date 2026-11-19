@@ -258,7 +258,7 @@ node G:\…\mineflayer-companion.cjs `
 离线模式（`online-mode=false`）的 UUID 是 `OfflinePlayer:<名字>` 现算的：
 
 ```
-OfflinePlayer:Kan  →  7e4b4fbe-f61b-3b08-aabe-15f05cf61c00
+OfflinePlayer:Kan  →  7e4b4fbe-…（离线模式按名字算出的 UUID，大小写不同结果就不同）
 OfflinePlayer:kan  →  另一个完全不同的值
 ```
 
